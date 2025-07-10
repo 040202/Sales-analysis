@@ -24,8 +24,6 @@ Sales-Analysis-Project/
 ├── sales_analysis.ipynb       # Main analysis notebook
 ├── dataset/
 │   └── sales_data.csv         # Source data (e.g., multiple months)
-├── output/
-│   └── charts and visuals     # Optional: PNGs, Excel exports, etc.
 ├── requirements.txt
 └── README.md
 ```
